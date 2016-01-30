@@ -3,6 +3,7 @@ public class classeA {
 	private int A1;
 	private float A2;
 	private String A3;
+	private String Aramo4;
 
 	public int getA1() {
 		return A1;
@@ -30,5 +31,13 @@ public class classeA {
 
 	public float soma() {
 		return A1 + A2;
+	}
+	
+	public void setAramo4(String aramo4) {
+		Aramo4 = aramo4;
+	}
+	
+	public String getAramo4() {
+	 	return Aramo4;
 	}
 }
