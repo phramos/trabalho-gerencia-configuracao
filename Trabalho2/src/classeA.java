@@ -20,8 +20,8 @@ public class classeA {
 		A2 = a2;
 	}
 	
-	public void setA3(Strin a3) {
-		A3 = a3
+	public void setA3(String a3) {
+		A3 = a3;
 	}
 	
 	public String getA3() {
